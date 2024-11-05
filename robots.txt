@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyeruaza.github.io/Ihe/sitemap_index.txt
+Sitemap: https://uyeruaza.github.io/MEC/sitemap_index.txt
+Sitemap: https://uyeruaza.github.io/OcI/sitemap_index.txt
+Sitemap: https://uyeruaza.github.io/Ujv/sitemap_index.txt
